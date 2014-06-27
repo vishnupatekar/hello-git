@@ -1,5 +1,12 @@
-this is a test commit to learn the git process....
+main()
+{
+   printf("this is timepass");
+}
+
+this was  a test commit to learn the git by Linus....
 
 
+this was a firt file commit, now i changed it.
 
-~vishnu
+Regards,
+Vishnu Patekar.
